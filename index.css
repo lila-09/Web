@@ -1,0 +1,29 @@
+body {
+    background-color:pink;
+}
+
+#superior{
+    background-color: aquamarine;
+    font-size: xx-large;
+    color:rgb(221, 160, 99);
+}
+
+#seccio_1¨{
+    background-color:rgb(197, 197, 105)
+    color: rgb(107, 220, 220);
+}
+
+#seccio_2{
+    background-color: rgb(244, 238, 133);
+    color: rgb(107, 220, 220);
+}
+
+#seccio_3{
+    background-color: rgb(230, 207, 115);
+    color: rgb(107, 220, 220);
+}
+
+#seccio_4{
+    background-color: palegreen;
+    color: rgb(107, 220, 220);
+}
